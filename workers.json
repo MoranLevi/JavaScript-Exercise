@@ -1,0 +1,72 @@
+[
+    {
+        "firstName": "Avi",
+        "lastName": "Cohen",
+        "id": "206214789",
+        "yearOfBirth": 1990,
+        "gender": "male",
+        "city": "Haifa",
+        "role": "programmer",
+        "salary": {
+            "basic": 10000,
+            "bonus": 2000,
+            "stock": 1000
+        }
+    },
+    {
+        "firstName": "Revital",
+        "lastName": "Rozental",
+        "id": "208745982",
+        "yearOfBirth": 1992,
+        "gender": "female",
+        "city": "Tel-Aviv",
+        "role": "programmer",
+        "salary": {
+            "basic": 8000,
+            "bonus": 500,
+            "stock": 0
+        }
+    },
+    {
+        "firstName": "Rafi",
+        "lastName": "Levi",
+        "id": "306334789",
+        "yearOfBirth": 1980,
+        "gender": "male",
+        "city": "Acco",
+        "role": "engineer",
+        "salary": {
+            "basic": 12000,
+            "bonus": 3000,
+            "stock": 3000
+        }
+    },
+    {
+        "firstName": "May",
+        "lastName": "Cali",
+        "id": "147258369",
+        "yearOfBirth": 1985,
+        "gender": "female",
+        "city": "Haifa",
+        "role": "engineer",
+        "salary": {
+            "basic": 20000,
+            "bonus": 5000,
+            "stock": 3000
+        }
+    },
+    {
+        "firstName": "Shiran",
+        "lastName": "Tal",
+        "id": "278945982",
+        "yearOfBirth": 1996,
+        "gender": "female",
+        "city": "Carmiel",
+        "role": "telephonist",
+        "salary": {
+            "basic": 6000,
+            "bonus": 1000,
+            "stock": 200
+        }
+    }
+]
